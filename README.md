@@ -1,0 +1,1 @@
+## This repo contains the result of rigorous study based around Andrej Karpathy's "Neural Nets: Zero to Hero" online course. Studying this course rigorously provides a sturdy basis in both the theory and the practice of Deep learning and LLMs.
